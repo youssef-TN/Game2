@@ -1,0 +1,4 @@
+Thamer=20
+Nourhene=10
+Arij=0
+Youssef=-50
