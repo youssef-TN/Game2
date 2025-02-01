@@ -126,6 +126,7 @@ int main()
 				break;
 			}
 			path_length = 0;
+			current_state = resetVisitedGrid(&grid, rows, cols);
 			shortestPath = findShortPath(grid, player_node, end_node, rows, cols, &path_length);
 			current_state = resetVisitedGrid(&grid, rows, cols);
 			current_state = statePlaying;
