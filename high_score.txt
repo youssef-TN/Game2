@@ -1,4 +1,5 @@
 Thamer=20
 Nourhene=10
 Arij=0
-Youssef=-50
+Youssef=-50de=37
+de=37

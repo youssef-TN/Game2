@@ -1,7 +1,7 @@
 #pragma once
 
 #include <stdio.h>
-#include <limits.h>
+#include <limits.h> 
 
 // Files and gobal variables
 #define CONFIG_FILE "config.cfg"

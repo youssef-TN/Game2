@@ -1,0 +1,25 @@
+{
+	"files.associations": {
+		"main.h": "c",
+		"math.h": "c",
+		"stdlib.h": "c",
+		"ncurses.h": "c",
+		"functional": "c",
+		"random.h": "c",
+		"global.h": "c",
+		"stdio.h": "c",
+		"menu.h": "c",
+		"ctype.h": "c",
+		"stdbool.h": "c",
+		"optional": "c",
+		"system_error": "c",
+		"array": "c",
+		"tuple": "c",
+		"type_traits": "c",
+		"utility": "c",
+		"high-score.h": "c",
+		"string.h": "c",
+		"unistd.h": "c",
+		"algorithm": "c"
+	}
+}
